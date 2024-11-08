@@ -15,3 +15,6 @@ https://github.com/sravani223/23CSBTB30/blob/main/Classified_Data.ipynb
 https://github.com/sravani223/23CSBTB30/blob/main/EXCEL_SHEET.ipynb
 
 https://github.com/sravani223/23CSBTB30/blob/main/Module.ipynb
+
+Lab Exam : https://github.com/sravani223/23CSBTB30/blob/main/Exam.ipynb
+
